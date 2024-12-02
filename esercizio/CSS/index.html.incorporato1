@@ -1,1 +1,33 @@
+<html>
+<head>
+<style type="text/css">
+H1 { font-size:36px; font-family:arial; color:blue; text-align:center; }
+H2 { font-size:33px; font-family:arial; color:orange; text-align:center; }
+H3 { font-size:18px; font-style:italic; font-family:arial; text-align:justify; }
+H4 { font-size:33px; font-family:arial; color:orange; text-align:center; }
+H5 { font-size:18px; font-style:italic; font-family:arial; text_align:justify; }
+</style>
+</head>
+<body>
+<H1>La Privacy</H1>
+<H2>Diritto alla privacy: cos’è</H2>
+<H3>Partiamo subito col dire che il diritto alla privacy va inteso come diritto alla protezione dei dati<br>
+personali. In pratica, ogni individuo può scegliere liberamente a chi rivelare le informazioni<br>
+che lo riguardano e le modalità di trattamento di tali informazioni. Di conseguenza, è<br>
+illecita qualsiasi divulgazione di dati relativa alla sfera personale del soggetto interessato in<br>
+assenza di un suo consenso.</H3>
+<H4>Diritto alla privacy: dati personali e dati sensibili</H4>
+<H5>Ma cosa si intende per dati personali o dati sensibili? Sono la stessa cosa? Lo vediamo<br>
+subito. Il Codice della privacy distingue tre forme di dati:<br>
+-i dati personali: si tratta di tutte quelle informazioni utili ad identificare una persona.<br>
+Parliamo, quindi, del nome e cognome, del luogo e della data di nascita, del codice<br>
+fiscale, ecc. Tali dati devono essere esatti, aggiornati e pertinenti alla finalità dichiarata;<br>
+-i dati sensibili: rivelatori dell’origine razziale, dell’orientamento sessuale e religioso, delle<br>
+opinioni politiche, dello stato di salute, ecc. I dati sensibili possono essere trattati previo<br>
+consenso scritto dell’interessato e in presenza di un’autorizzazione del Garante della<br>
+Privacy;<br>
+-i dati particolari: si riferiscono ai dati giudiziari che possono rivelare, ad esempio, se un<br>
+soggetto è imputato in qualche procedimento penale.<H5>
+</body>
+</html>
 
