@@ -2,3 +2,4 @@ body {background: lightskyblue}
 h1 {font-size: 36px; font: arial; color: mediumblue; text-align: center; font-weight: bold; }
 h2 {font-size: 24px; font: arial; color: mediumvioletred; text-align: center; font-weight: bold }
 p {font-size: 18px; font: arial; color: blue; background: azure; text-align: center; }
+img { width: 200px; height: 200px; } 
