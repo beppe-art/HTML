@@ -1,1 +1,10 @@
 <doctype!>
+<html>
+<head>
+  <title>Algoritmo</title>
+</head>
+  <body>
+    <img src="Images/algoritmo.jpg" alt="immagine di algoritmo">
+    <a href="index.html"</a>
+  </body>
+</html>
