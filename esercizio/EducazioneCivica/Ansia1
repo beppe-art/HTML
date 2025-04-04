@@ -9,7 +9,6 @@
   <body>
     <h1>Consiglo ansia1</h1>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.4/dist/js/bootstrap.bundle.min.js" integrity="sha384-YUe2LzesAfftltw+PEaao2tjU/QATaW/rOitAq67e0CT0Zi2VVRL0oC4+gAaeBKu" crossorigin="anonymous"></script>
-  </body>
 <center><p>Il mio consiglio: Un consiglio utile potrebbe essere quello di fare una lista semplice delle priorità della giornata.<br> 
 Concentrati su 3-4 compiti principali, in modo che tu possa sentirti più in controllo.<br> 
 Ricorda, va bene se non tutto è perfetto. Focalizzarsi su ciò che è più importante ti aiuta a mantenere la calma.<br>
@@ -17,7 +16,7 @@ Quando l'ansia arriva per la mancanza di organizzazione, prova a fare una lista 
 Concentrati su degli obiettivi principali per la giornata.<br> 
 A volte, concedersi un po' di flessibilità può ridurre l'ansia, permettendoti di affrontare la giornata con più serenità.<p><center>
  <a href="index.html"><h3>"Home"</h3></a>
-
+ </body>
 </html>
 
 
